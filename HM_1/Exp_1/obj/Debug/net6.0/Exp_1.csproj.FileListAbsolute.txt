@@ -1,0 +1,15 @@
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\bin\Debug\net6.0\Exp_1.exe
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\bin\Debug\net6.0\Exp_1.deps.json
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\bin\Debug\net6.0\Exp_1.runtimeconfig.json
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\bin\Debug\net6.0\Exp_1.dll
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\bin\Debug\net6.0\Exp_1.pdb
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\obj\Debug\net6.0\Exp_1.csproj.AssemblyReference.cache
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\obj\Debug\net6.0\Exp_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\obj\Debug\net6.0\Exp_1.AssemblyInfoInputs.cache
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\obj\Debug\net6.0\Exp_1.AssemblyInfo.cs
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\obj\Debug\net6.0\Exp_1.csproj.CoreCompileInputs.cache
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\obj\Debug\net6.0\Exp_1.dll
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\obj\Debug\net6.0\refint\Exp_1.dll
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\obj\Debug\net6.0\Exp_1.pdb
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\obj\Debug\net6.0\Exp_1.genruntimeconfig.cache
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_1\Exp_1\obj\Debug\net6.0\ref\Exp_1.dll
