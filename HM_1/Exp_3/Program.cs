@@ -4,7 +4,7 @@ int number = new Random().Next(-20, 30);
 
 Console.WriteLine(number);
 
-if((number % 2) == 0)
+if ((number % 2) == 0)
 {
     Console.WriteLine("This is an even number");
 }
