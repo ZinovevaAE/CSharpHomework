@@ -1,6 +1,6 @@
 ﻿//Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
-void FuncDigit3Find(string Number)
+/*void FuncDigit3Find(string Number)
 {
     int n = Number.Length;
     int number = Convert.ToInt32(Number);
@@ -17,10 +17,14 @@ void FuncDigit3Find(string Number)
 
     if (n < 3) Console.WriteLine("Третьей цифры нет");
     else Console.WriteLine("Третья цифра: " + digitsArr[n - 3]);
-}
+}*/
 
 Console.Write("Введите число: ");
 string Number = Console.ReadLine();
 
-FuncDigit3Find(Number);
+//FuncDigit3Find(Number);
 
+// Добавлен второй способ решения, через массив строк. 
+int n = Number.Length;
+if (n < 3) Console.WriteLine("Третьей цифры нет");
+    else Console.WriteLine("Третья цифра: " + Number[2]);
