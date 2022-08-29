@@ -1,0 +1,15 @@
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\obj\Debug\net6.0\HM_7.csproj.AssemblyReference.cache
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\obj\Debug\net6.0\HM_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\obj\Debug\net6.0\HM_7.AssemblyInfoInputs.cache
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\obj\Debug\net6.0\HM_7.AssemblyInfo.cs
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\obj\Debug\net6.0\HM_7.csproj.CoreCompileInputs.cache
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\bin\Debug\net6.0\HM_7.exe
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\bin\Debug\net6.0\HM_7.deps.json
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\bin\Debug\net6.0\HM_7.runtimeconfig.json
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\bin\Debug\net6.0\HM_7.dll
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\bin\Debug\net6.0\HM_7.pdb
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\obj\Debug\net6.0\HM_7.dll
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\obj\Debug\net6.0\refint\HM_7.dll
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\obj\Debug\net6.0\HM_7.pdb
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\obj\Debug\net6.0\HM_7.genruntimeconfig.cache
+C:\Users\xobot\Documents\GB_Developer\C#\Homework\HM_7\obj\Debug\net6.0\ref\HM_7.dll
